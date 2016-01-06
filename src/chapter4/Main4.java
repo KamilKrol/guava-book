@@ -1,11 +1,8 @@
-package chapter3;
+package chapter4;
 
-import com.google.common.collect.ImmutableList;
 import com.google.common.collect.ImmutableSet;
-import com.google.common.collect.Lists;
 import com.google.common.collect.Sets;
 
-import java.util.List;
 import java.util.Set;
 
 /**
